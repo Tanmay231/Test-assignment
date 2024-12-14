@@ -1,0 +1,2 @@
+- npx hardhat ignition deploy ignition/modules/TestNFT.js --network sepolia
+- npx hardhat run scripts/verify.js --network sepolia
